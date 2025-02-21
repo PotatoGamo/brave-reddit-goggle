@@ -1,0 +1,7 @@
+! name: Reddit
+! description: Only shows results from reddit
+! public: true
+! author: PotatoGamo
+
+$discard
+$boost,site=reddit.com
