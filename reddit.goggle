@@ -4,4 +4,4 @@
 ! author: PotatoGamo
 
 $discard
-$boost,site=reddit.com
+/r/*/comments/*$boost,site=reddit.com
